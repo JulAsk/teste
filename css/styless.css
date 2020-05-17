@@ -1,0 +1,46 @@
+body
+{
+  background: #00aa99;
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/597/495/original/blurred2-08.jpg");
+  background-size: 100vw 100vh;
+  font-family: Calibri;
+  height: 100vh;
+}
+
+.menu
+{
+  background-color: white;
+}
+
+.menu ul
+{
+  display: flex;
+  justify-content: space-around;
+}
+.menu li
+{
+  list-style: none;
+}
+
+a
+{
+  color: #00aadd;
+  text-decoration: none;
+}
+
+a:hover
+{
+  text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title
+{
+  text-align: center;
+  color: lightblue;
+}
+
+.site-subtitle
+{
+  font-family: italic;
+}
